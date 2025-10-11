@@ -32,3 +32,14 @@ Tomorrow, I’ll continue if my laptop doesn't explode.
 WISH ME GOODLUCK FOR THE EXAM!
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5MywicHVyIjoiYmxvYl9pZCJ9fQ==--3418cf351b2061f9900c44343d071a22cf492a73/image.png)  
 
+## 10/11/2025 - Starting Schematics... Three Days Later... I FINISHED IT!!!!  
+
+Remember when I said I’d “continue tomorrow”? Yeah, well… it only took three days, but, remember, progress is progress, no?
+
+I finally finished the Al-Jazarani schematic. Honestly, I’m shocked. Between my exam, random YouTube rabbit holes, and discovering new music every time I opened my laptop, I somehow managed to stay focused long enough to actually finish it.
+
+And the craziest part? I didn’t start another random project halfway through. That’s probably a HUGE win for me. Usually I’d be halfway through a a project before suddenly deciding I need to build something chaotic or weird (that I never start or I stop midway). But nope, this time I stayed loyal. Character development, right?
+
+Anyway, the schematic is done, the connections make sense (I think), and my laptop didn’t explode. That’s a win for me. Next up is... uhhhh I have no idea what's next I'm thinking about adding a battery.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--84d7de9c7ce61da1a7c949c0a847b8d5b3609269/image.png)
+  
+
