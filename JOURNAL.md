@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Al-Jazari**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/324).
-
-
 ## 10/8/2025 - Finally decided what to build after hours of thinking (hard)  
 
 After approximately 17 cups of tea, 4 existential crises, one deep sigh at my 100+ open tabs (yes, my browser is basically a war zone), and about 2 billion messages exchanged with ChatGPT and DeepSeek, we finally decided what to build-my very own open-source RP2040 devboard, officially named Al-Jazarani (don’t ask why, it just sounds cool).
@@ -41,5 +37,16 @@ I finally finished the Al-Jazarani schematic. Honestly, I’m shocked. Between m
 And the craziest part? I didn’t start another random project halfway through. That’s probably a HUGE win for me. Usually I’d be halfway through a a project before suddenly deciding I need to build something chaotic or weird (that I never start or I stop midway). But nope, this time I stayed loyal. Character development, right?
 
 Anyway, the schematic is done, the connections make sense (I think), and my laptop didn’t explode. That’s a win for me. Next up is... uhhhh I have no idea what's next I'm thinking about adding a battery.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--84d7de9c7ce61da1a7c949c0a847b8d5b3609269/image.png)
+  
+
+## 11/3/2025 - I kinda forgot this existed for a bit  
+
+Sooo remember this project? Yeah… me neither 💀.
+I completely locked in for exams and then kinda… disappeared. For a while. Like I blinked and three weeks just speedran past me.
+Anyway, I’m back now (hopefully for real this time). I started back yesterday and somehow completely finished the schematics and footprint in one go, but now I wanna give the board a unique shape this time, something cool and different instead of just a boring rectangle. Still brainstorming ideas though, my brain’s buffering again
+
+just one last thing: don’t trust me when I say “I’ll continue tomorrow”
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5848b98748fee7e7f04a8df6b5000a5b5b5bb20/image.png)
   
 
